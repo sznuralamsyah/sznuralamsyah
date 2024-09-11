@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" width="400%" height="250" src="https://github.com/sznuralamsyah/sznuralamsyah/blob/main/Github%20banner.jpg">
+<img align="center" alt="Banner" width="100%" height="250" src="https://github.com/sznuralamsyah/sznuralamsyah/blob/main/Github%20banner.jpg">
 <h1 align="center">¡Hola! I am Andika Nuralamsyah</h1>
 <h3 align="center">Undergraduate Student of Informatics Engineering</h3>
 <img align="right" alt="Coding" width="150" height="150" src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif">
