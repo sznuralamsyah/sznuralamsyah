@@ -7,7 +7,7 @@
 
 - Currently learning **PHP and Java**
 
-- Love to playing **'Sea of Thieves' and 'SQUAD'**
+- Love to playing **'Sea of Thieves' , 'SQUAD' and 'Stardew Valley'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
